@@ -1,3 +1,7 @@
+"""
+You are given a "folder" with sub-folders and files.
+User enters a file path. If it's executable (and you can find the file at the end), return True.
+"""
 import re
 
 
